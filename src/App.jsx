@@ -27,11 +27,11 @@ const siteProps = {
   name: "Shishir Rijal",
   title: "Flutter Developer | ML Enthusiast",
   email: "ccrrizal@gmail.com",
-  gitHub: "https://www.github.com/ShishirRijal/",
-  instagram: "https://www.instagram.com/shishirrijal/",
-  linkedIn: "https://www.linkedin.com/in/shishirrijal/",
-  medium: "",
-  twitter: "https://twitter.com/ccr_rizal",
+  gitHub: "ShishirRijal",
+  instagram: "shishirrijal",
+  linkedIn: "shishirrijal",
+  medium: "ShishirRijal",
+  twitter: "ccr_rizal",
   youTube: "",
 };
 
